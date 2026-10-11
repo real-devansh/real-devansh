@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, I'm Devansh 👋
 
-<!--
-**real-devansh/real-devansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about building end-to-end analytics pipelines, robust ML models, and scalable data-driven solutions to solve real-world problems.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Major Projects
+
+📊 End-to-End Sales Analytics Pipeline
+
+A fully automated pipeline processing 500K+ rows with live KPI tracking, YoY comparisons, and an interactive Streamlit dashboard.
+(Tech: Python, SQL, Streamlit, Pandas)
+
+🧪 Data-Driven Feature Optimization & Regression
+
+An A/B testing framework discovering a 134% conversion lift, paired with a linear regression model (R² 76%) to forecast ad conversions.
+(Tech: Python, Statistics, A/B Testing)
+
+📈 Business Intelligence Dashboards
+
+Comprehensive visual stories transforming raw data into actionable insights for Sales, HR, and Revenue tracking.
+(Tech: Power BI, Tableau, Excel)
+
+📫 Let's Connect
